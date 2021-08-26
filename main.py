@@ -15,7 +15,7 @@ title.pack()
 
 ip = tk.Label(text="Your Ip:")
 ip.pack()
-button = tk.Button(text="La IP es: %s" % direccion_equipo)
+button = tk.Button(text="IP: %s" % direccion_equipo)
 button.pack()
 
 ne = tk.Label(text="Your PC Name:")
