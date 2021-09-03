@@ -43,5 +43,5 @@ cre.pack()
 
 tk.mainloop()
 
-### Discord: Bikz#0972
+### Discord: I.#0700
 ### More releases will be available
